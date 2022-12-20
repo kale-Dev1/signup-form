@@ -34,3 +34,20 @@ form div:last-child{
     background-color: rgb(231, 240, 245);
     padding: 5% 10% 10% 5%;
 }
+
+@media only screen and (max-width: 600px) {
+    .image{
+       height: 20px;
+    }
+}
+
+.login{
+    height: 90vh;
+   
+    display: flex;
+
+}
+.loginForm{
+background-color: cadetblue;
+height: 80px;
+}
