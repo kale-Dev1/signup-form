@@ -43,11 +43,16 @@ form div:last-child{
     }
 }
 
+/* Login Page */
+#loginPage{
+    background-color: bisque;
+
+}
+
 .login{
-    grid-column: 2;
-    height: 90vh;
+    margin: auto;
+    width: 50%;
    
-    display: flex;
 
 }
 .loginForm{
@@ -55,11 +60,7 @@ background-color: cadetblue;
 
 }
 
-#loginPage{
-    background-color: rgba(114, 173, 228, 0.697);
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-}
+
 span{
-    padding-left: 30px;
+    padding-left: 5%;
 }
