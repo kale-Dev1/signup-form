@@ -1,3 +1,4 @@
+<<<<<<< HEAD
    ## TOP: Sign-Up Form
 
 <p align="center">
@@ -25,3 +26,9 @@ each input will show a different color depending on its state, and briefly displ
 * CSS (Flexbox)
 * JavaScript
 
+=======
+# signup-form
+sign up form built with html, and bootstrap with form validation 
+
+Live site - https://kale-dev1.github.io/signup-form/
+>>>>>>> 881cc4db1196faa391efa1743c655c9b0126a72c
