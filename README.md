@@ -5,7 +5,7 @@
   <img src="demo.png" width="600" alt="project pic">
 </p>
 <h2 align="center">
-<a href="https://mmackz.github.io/signup-form/">DEMO</a>
+<a href="https://kale-dev1.github.io/signup-form/">DEMO</a>
 </h2>
 
 ### About the project
